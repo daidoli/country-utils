@@ -1,0 +1,10 @@
+1:
+Connecticut, New Jersey, North Carolina, New York, South Carolina, New Hampshire, Delaware, Ohio,
+Kentucky, Pennsylvania, Maine, Rhode Island, Maryland, Vermont, Massachusetts, Virginia, Michigan, Washington
+
+2:
+Alabama, Kansas, Texas, Arkansas, Louisiana, Wisconsin, North Dakota, Minnesota, South Dakota, Mississippi, 
+Florida, Missouri, Georgia, Montana, Illinois, Nebraska, Indiana, Oklahoma, Iowa, Tennessee
+
+3: 
+Arizona, California, Colorado, Idaho, Nevada, New Mexico, Oregon, Utah, Wyoming
